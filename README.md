@@ -1,6 +1,8 @@
 # NLP-Learning-Process-Senior-Version
 
 
+[课表](https://shimo.im/sheets/TdwVD8xr6HJXRhYD/MODOC/)
+
 | 时间      | 内容     | 关键信息     | 项目代码  |
 | ---------- | :-----------:  | :-----------: | :-----------: |
 | Week 1    | 词向量与文本表征   | Word2Vec    |         |
